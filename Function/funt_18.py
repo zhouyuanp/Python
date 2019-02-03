@@ -17,3 +17,13 @@ def outer():
 
 outer()
 print("a : ",a)
+
+
+
+
+
+
+
+
+
+

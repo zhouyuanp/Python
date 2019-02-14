@@ -1,4 +1,4 @@
-#测试call方法
+#测试call可调用对象方法
 
 class SalaryAccount:
 

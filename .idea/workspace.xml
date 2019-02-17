@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe27d9c5-0870-4dcb-aaf5-7b8f8b911a2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Object/classPerson2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/Property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/Property1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,6 +31,7 @@
     <SUITE FILE_PATH="coverage/Python$funt_04.coverage" NAME="funt_04 Coverage Results" MODIFIED="1547309007252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
     <SUITE FILE_PATH="coverage/PythonCode$classStudent.coverage" NAME="classStudent Coverage Results" MODIFIED="1549619507543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
     <SUITE FILE_PATH="coverage/Python$funt_07.coverage" NAME="funt_07 Coverage Results" MODIFIED="1547568430983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/python1$Property.coverage" NAME="Property Coverage Results" MODIFIED="1550403908519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
     <SUITE FILE_PATH="coverage/Python$funt_10.coverage" NAME="funt_10 Coverage Results" MODIFIED="1547958384516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
     <SUITE FILE_PATH="coverage/python1$classStudent2.coverage" NAME="classStudent2 Coverage Results" MODIFIED="1550041122252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
     <SUITE FILE_PATH="coverage/PythonCode$funt_16.coverage" NAME="funt_16 Coverage Results" MODIFIED="1548948656476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
@@ -39,39 +43,41 @@
     <SUITE FILE_PATH="coverage/PythonCode$classStudent2.coverage" NAME="classStudent2 Coverage Results" MODIFIED="1549889900267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
     <SUITE FILE_PATH="coverage/Python$funt_12.coverage" NAME="funt_12 Coverage Results" MODIFIED="1548089107714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
     <SUITE FILE_PATH="coverage/PythonCode$funt_19.coverage" NAME="funt_19 Coverage Results" MODIFIED="1549364393961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
-    <SUITE FILE_PATH="coverage/python1$classPerson2.coverage" NAME="classPerson2 Coverage Results" MODIFIED="1550328749705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
+    <SUITE FILE_PATH="coverage/python1$Property1.coverage" NAME="Property1 Coverage Results" MODIFIED="1550405898268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
+    <SUITE FILE_PATH="coverage/python1$classPerson2.coverage" NAME="classPerson2 Coverage Results" MODIFIED="1550392746533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1164404347">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1237" />
-          <entry key="txt" value="32" />
+          <entry key="py" value="2001" />
+          <entry key="txt" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="32" />
-          <entry key="Python" value="1237" />
+          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="Python" value="2001" />
         </counts>
       </usages-collector>
     </session>
@@ -91,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/Object/classStudent3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
-              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -99,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Object/classStudent4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="650">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <marker date="1550048230649" expanded="true" signature="21:26" ph="..." />
                 <marker date="1550048230649" expanded="true" signature="85:139" ph="..." />
@@ -113,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Object/classPerson1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="468">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding>
                 <marker date="1550310090591" expanded="true" signature="34:39" ph="..." />
                 <marker date="1550310090591" expanded="true" signature="103:108" ph="..." />
@@ -124,16 +130,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Object/classPerson2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="133">
+              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
-                <marker date="1550328749694" expanded="true" signature="41:516" ph="..." />
-                <marker date="1550328749694" expanded="true" signature="210:213" ph="..." />
-                <marker date="1550328749694" expanded="true" signature="210:217" ph="..." />
-                <marker date="1550328749694" expanded="true" signature="210:219" ph="..." />
+                <marker date="1550328771315" expanded="true" signature="41:516" ph="..." />
+                <marker date="1550328771315" expanded="true" signature="210:213" ph="..." />
+                <marker date="1550328771315" expanded="true" signature="210:217" ph="..." />
+                <marker date="1550328771315" expanded="true" signature="210:219" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Object/Property.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding>
+                <marker date="1550404027736" expanded="true" signature="32:33" ph="..." />
+                <marker date="1550404027736" expanded="true" signature="32:68" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Object/Property1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <marker date="1550405905039" expanded="true" signature="34:838" ph="..." />
               </folding>
             </state>
           </provider>
@@ -180,6 +211,8 @@
         <option value="$PROJECT_DIR$/Object/classPerson1.py" />
         <option value="$PROJECT_DIR$/classPerson2.py" />
         <option value="$PROJECT_DIR$/Object/classPerson2.py" />
+        <option value="$PROJECT_DIR$/Object/Property.py" />
+        <option value="$PROJECT_DIR$/Object/Property1.py" />
       </list>
     </option>
   </component>
@@ -201,6 +234,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,7 +251,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,7 +280,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.classPerson2">
+  <component name="RunManager" selected="Python.Property1">
+    <configuration name="Property" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object/Property.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Property1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object/Property1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="classPerson1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,50 +369,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classStudent2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object/classStudent2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="classStudent3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object/classStudent3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="classStudent4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -359,19 +392,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.classStudent2" />
-      <item itemvalue="Python.classStudent3" />
       <item itemvalue="Python.classStudent4" />
       <item itemvalue="Python.classPerson1" />
       <item itemvalue="Python.classPerson2" />
+      <item itemvalue="Python.Property" />
+      <item itemvalue="Python.Property1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Property1" />
+        <item itemvalue="Python.Property" />
         <item itemvalue="Python.classPerson2" />
         <item itemvalue="Python.classPerson1" />
         <item itemvalue="Python.classStudent4" />
-        <item itemvalue="Python.classStudent3" />
-        <item itemvalue="Python.classStudent2" />
       </list>
     </recent_temporary>
   </component>
@@ -592,7 +625,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550310143681</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="私有属性 定义和内外部调用&#10;私有方法 定义和内外部调用&#10;类属性  定义和内外部调用">
+      <created>1550328844209</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1550328844209</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -602,7 +642,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16868381" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17170954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -654,7 +694,8 @@
     <MESSAGE value="类方法和静态方法" />
     <MESSAGE value="Merge branch 'master' of https://github.com/zhouyuanp/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="方法不能重载和方法的动态性" />
-    <option name="LAST_COMMIT_MESSAGE" value="方法不能重载和方法的动态性" />
+    <MESSAGE value="私有属性 定义和内外部调用&#10;私有方法 定义和内外部调用&#10;类属性  定义和内外部调用" />
+    <option name="LAST_COMMIT_MESSAGE" value="私有属性 定义和内外部调用&#10;私有方法 定义和内外部调用&#10;类属性  定义和内外部调用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -816,6 +857,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/classPerson2.py" />
     <entry file="file://$PROJECT_DIR$/Object/classStudent2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -826,14 +868,14 @@
     <entry file="file://$PROJECT_DIR$/Object/classStudent3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Object/classStudent4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="650">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <marker date="1550048230649" expanded="true" signature="21:26" ph="..." />
             <marker date="1550048230649" expanded="true" signature="85:139" ph="..." />
@@ -842,13 +884,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classPerson2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Object/classPerson1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="468">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding>
             <marker date="1550310090591" expanded="true" signature="34:39" ph="..." />
             <marker date="1550310090591" expanded="true" signature="103:108" ph="..." />
@@ -859,13 +898,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Object/classPerson2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="133">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding>
-            <marker date="1550328749694" expanded="true" signature="41:516" ph="..." />
-            <marker date="1550328749694" expanded="true" signature="210:213" ph="..." />
-            <marker date="1550328749694" expanded="true" signature="210:217" ph="..." />
-            <marker date="1550328749694" expanded="true" signature="210:219" ph="..." />
+            <marker date="1550328771315" expanded="true" signature="41:516" ph="..." />
+            <marker date="1550328771315" expanded="true" signature="210:213" ph="..." />
+            <marker date="1550328771315" expanded="true" signature="210:217" ph="..." />
+            <marker date="1550328771315" expanded="true" signature="210:219" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object/Property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <marker date="1550404027736" expanded="true" signature="32:33" ph="..." />
+            <marker date="1550404027736" expanded="true" signature="32:68" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object/Property1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <marker date="1550405905039" expanded="true" signature="34:838" ph="..." />
           </folding>
         </state>
       </provider>

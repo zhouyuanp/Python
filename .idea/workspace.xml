@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe27d9c5-0870-4dcb-aaf5-7b8f8b911a2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Object/Inherit2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/Inherit3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,6 +47,7 @@
     <SUITE FILE_PATH="coverage/Python$test64.coverage" NAME="test64 Coverage Results" MODIFIED="1547049833867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python1$classStudent2.coverage" NAME="classStudent2 Coverage Results" MODIFIED="1550041122252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
     <SUITE FILE_PATH="coverage/PythonCode$funt_12.coverage" NAME="funt_12 Coverage Results" MODIFIED="1548851974108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/PythonCode$Inherit3.coverage" NAME="Inherit3 Coverage Results" MODIFIED="1551104122350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -59,11 +60,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Object/Inherit2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state relative-caret-position="207">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Object/Inherit3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -143,6 +153,7 @@
         <option value="$PROJECT_DIR$/Object/Object.py" />
         <option value="$PROJECT_DIR$/Object/Object1.py" />
         <option value="$PROJECT_DIR$/Object/Inherit2.py" />
+        <option value="$PROJECT_DIR$/Object/Inherit3.py" />
       </list>
     </option>
   </component>
@@ -204,29 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Inherit2">
-    <configuration name="Inherit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object/Inherit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Inherit3">
     <configuration name="Inherit1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,6 +252,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object/Inherit2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Inherit3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object/Inherit3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,19 +327,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Inherit" />
       <item itemvalue="Python.Inherit1" />
       <item itemvalue="Python.Object" />
       <item itemvalue="Python.Object1" />
       <item itemvalue="Python.Inherit2" />
+      <item itemvalue="Python.Inherit3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Inherit3" />
         <item itemvalue="Python.Inherit2" />
         <item itemvalue="Python.Object1" />
         <item itemvalue="Python.Object" />
         <item itemvalue="Python.Inherit1" />
-        <item itemvalue="Python.Inherit" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +376,8 @@
       <workItem from="1550756443162" duration="2503000" />
       <workItem from="1550844368997" duration="1588000" />
       <workItem from="1550945717498" duration="1035000" />
-      <workItem from="1551020609474" duration="888000" />
+      <workItem from="1551020609474" duration="974000" />
+      <workItem from="1551102233571" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1546949643783</created>
@@ -598,22 +610,28 @@
       <option name="project" value="LOCAL" />
       <updated>1550946726557</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="多重继承">
+      <created>1551022005821</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1551022005821</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46911000" />
+    <option name="totallyTimeSpent" value="48106000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1860817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1881663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -635,7 +653,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="函数的形参和实参" />
     <MESSAGE value="返回值" />
     <MESSAGE value="函数的内存分析" />
     <MESSAGE value="测试全局变量和局部变量的效率" />
@@ -660,7 +677,8 @@
     <MESSAGE value="方法继承后的重写" />
     <MESSAGE value="mro()继承层次结构和dir()查看属性" />
     <MESSAGE value="重写了object 中的str方法 不知道其他方法是否也可以重写" />
-    <option name="LAST_COMMIT_MESSAGE" value="重写了object 中的str方法 不知道其他方法是否也可以重写" />
+    <MESSAGE value="多重继承" />
+    <option name="LAST_COMMIT_MESSAGE" value="多重继承" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -872,6 +890,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Object/Inherit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Object/Inherit1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -893,17 +918,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Inherit.py">
+    <entry file="file://$PROJECT_DIR$/Object/Inherit2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="207">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Inherit2.py">
+    <entry file="file://$PROJECT_DIR$/Object/Inherit3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="230">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
